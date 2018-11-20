@@ -1,0 +1,2 @@
+# -lottery
+lotteryFor2018
